@@ -23,12 +23,12 @@ The system interprets user intent dynamically and routes queries to the appropri
 
 # APIs Integrated
 1. Google Gemini API (via google.genai)
-  - Used for generating study plans
-2. Dictionary API
-  - https://api.dictionaryapi.dev/
-- Used for word definitions
+   - Used for generating study plans
+3. Dictionary API
+   - https://api.dictionaryapi.dev/
+   - Used for word definitions
 3. Wikipedia API
-  - Used for retrieving article summaries
+   - Used for retrieving article summaries
 
 # LangGraph Workflow Explanation
 State Structure
